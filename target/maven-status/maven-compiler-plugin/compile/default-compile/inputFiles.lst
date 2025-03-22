@@ -1,6 +1,10 @@
 /Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/controller/AuthController.java
+/Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/model/Product.java
 /Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/ShopSphereApplication.java
+/Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/service/ProductService.java
 /Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/service/AuthService.java
+/Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/repository/ProductRepository.java
 /Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/model/User.java
 /Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/config/SecurityConfig.java
 /Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/repository/UserRepository.java
+/Users/darshankarunagaran/Downloads/workspace/ShopSphere/src/main/java/com/shopping/ecommerce/controller/ProductController.java

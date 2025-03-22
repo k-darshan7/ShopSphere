@@ -1,6 +1,10 @@
 com/shopping/ecommerce/controller/AuthController.class
 com/shopping/ecommerce/config/SecurityConfig.class
+com/shopping/ecommerce/model/Product.class
+com/shopping/ecommerce/repository/ProductRepository.class
 com/shopping/ecommerce/repository/UserRepository.class
+com/shopping/ecommerce/controller/ProductController.class
+com/shopping/ecommerce/service/ProductService.class
 com/shopping/ecommerce/model/User.class
 com/shopping/ecommerce/ShopSphereApplication.class
 com/shopping/ecommerce/service/AuthService.class
